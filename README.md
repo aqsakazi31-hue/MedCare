@@ -25,3 +25,10 @@ MedCare is a dual-interface, Patient-Owned Digital Health Vault. It bridges the 
 2. **Scan & Extract:** Patient clicks "+ Add New Record" and uploads a prescription. The AI extracts the clinical data in seconds.
 3. **Verify & Note:** Patient verifies the AI data, adds any personal side-effect notes, and saves it to the vault.
 4. **Doctor Review:** The doctor logs into their desktop SaaS dashboard, searches the patient, and views a perfectly structured timeline of their medical history.
+
+# ⚕️ MedCare: Digital Patient Record System
+
+🚀 **[LIVE DEMO: Click Here to Test MedCare](https://medcare-2-seven.vercel.app/)** 🚀
+
+> **Your Health. Your Data. In Your Pocket.**
+> A Track 3 (Jan Jeevan) Hackathon Submission by Team Tech Titans.
